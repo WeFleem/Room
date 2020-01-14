@@ -4,3 +4,6 @@ for x in range(123):
 
 def printer():
     print(12)
+
+def reader():
+    return input()
