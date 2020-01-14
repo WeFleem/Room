@@ -1,0 +1,6 @@
+for x in range(123):
+    print(x)
+
+
+def printer():
+    print(12)
